@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&&&color=auto&height=300&section=header&text=welcome&fontSize=150&animation=fadeIn&fontAlignY=30&desc=jeonseongjae98's%20GitHub%20Profile&descAlignY=51&descAlign=70)
-
 <div align="center">
 
-**목표** : 😎`금융IT 개발자`
+![header](https://capsule-render.vercel.app/api?type=waving&&&&color=auto&height=300&section=header&text=welcome&fontSize=150&animation=fadeIn&fontAlignY=30&desc=jeonseongjae98's%20GitHub%20Profile&descAlignY=51&descAlign=70)
+
+
+
+**목표** : 👨🏻‍💻`금융IT 개발자`
 
 **MBTI** : `ESFJ`
 
@@ -43,7 +45,7 @@
 
 
 
-## **대외활동**
+## **📝대외활동**
 - **한패스 대학생 서포터즈 3기**
 - **피플앤커리어그룹 주니어코렙 공모전(금상)**
 - **SAP-JA Korea 사회적기업 디지털전환 프로젝트 1기**
@@ -57,14 +59,14 @@
 
 <br/>
 
-## **경력**
+## **📝경력**
 - **기업은행 인턴(디지털)**
 - **메트릭스튜디오 현장실습(CRM)**
 - **산업은행 인턴(전산)**
 
 <br/>
 
-## **📬 Contacts**
+## **📧Contacts**
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeonseongjae98@gmail.com)](mailto:jeonseongjae98@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jeonseongjae@naver.com)](mailto:jeonseongjae@naver.com)
