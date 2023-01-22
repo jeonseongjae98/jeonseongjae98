@@ -34,7 +34,7 @@
 
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonsoengjae)](https://solved.ac/jeonsoengjae)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonseongjae)](https://solved.ac/jeonseongjae)
 
 <br/>
 
