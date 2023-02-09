@@ -20,6 +20,8 @@
 ![MySQL](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
+
 
 </div>
 
@@ -43,7 +45,21 @@
 
 <br/>
 
+## **📝자격증**
+- **정보처리기사**
+- **컴퓨터활용능력 1급**
+- **SQLD**
+- **ADsP**
+- **인공지능활용능력 2급**
+- **파이썬프로그래밍활용능력 2급**
+- **빅데이터전문가 1급**
+- **정보처리기능사**
+- **MOS**
+- **ITQ**
+- **국가공인 한자자격시험 3급**
 
+
+<br/>
 
 ## **📝대외활동**
 - **한패스 대학생 서포터즈 3기**
