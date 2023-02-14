@@ -43,8 +43,9 @@
 
 <p align="center">
 ![jeonseongjae98's github stats](https://github-readme-stats-4i9x.vercel.app/api?username=jeonseongjae98&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats-4i9x.vercel.app/api/top-langs/?username=jeonseongjae98&layout=compact&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-4i9x.vercel.app/api/top-langs/?username=jeonseongjae98&theme=dark)
 </p>
+
 <br/>
 
 ## **📝자격증**
