@@ -40,8 +40,7 @@
 
 <br/>
 
-![seongjae's github stats](https://github-readme-stats.vercel.app/api?username=jeonseongjae98&show_icons=true&theme=dark)
-
+![jeonseongjae98's github stats](https://github-readme-stats.vercel.app/api?username=jeonseongjae98&show_icons=true&theme=dark)
 
 <br/>
 
