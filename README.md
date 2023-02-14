@@ -71,6 +71,7 @@
 - **삼성SDS-JA Korea 대학생 봉사단 코딩캠퍼스**
 - **금융감독원 대학생 금융교육 봉사단 9기**
 - **2022년 금융감독원 금융소비자리포터**
+- **카페 추천 서비스 ['카페인'](https://linktr.ee/cafein.kr?fbclid=PAAabxs2nn4flP_OqV3rJcALPl_ngK-6-f2nXVVDRwYoboUNuZXKY8fZxVUfI) 초기 멤버**
 
 <br/>
 
