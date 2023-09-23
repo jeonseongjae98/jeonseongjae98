@@ -23,7 +23,7 @@
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-
+![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 
 </div>
 
